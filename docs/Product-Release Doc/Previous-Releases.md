@@ -1,3 +1,8 @@
+---
+sidebar_position: 7
+title: Previous Releases
+---
+
 # Previous Releases
 
 **Product:** FlowSpace Project Management Platform  
@@ -76,12 +81,12 @@ These definitions are illustrative conventions for this portfolio project; actua
 
 ## Related Documentation
 
-- [What's New in FlowSpace 2.0](#whats-new-in-flowspace-20)
-- [New Features](#new-features)
-- [Improvements](#improvements)
-- [Bug Fixes](#bug-fixes)
-- [Known Issues and Workarounds](#known-issues-and-workarounds)
-- [Upgrade Notes](#upgrade-notes)
+- [What's New](./What's-New.md)
+- [New Features](./New-Features.md)
+- [Improvements](./Improvements.md)
+- [Bug Fixes](./Bug-Fixes.md)
+- [Known Issues and Workarounds](./Known-Issues.md)
+- [Upgrade Notes](./Upgrade-Notes.md)
 
 ---
 

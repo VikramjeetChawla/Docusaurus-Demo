@@ -1,3 +1,8 @@
+---
+sidebar_position: 2
+title: New Features
+---
+
 # New Features in FlowSpace 2.0
 
 **Release Version:** 2.0  
@@ -114,11 +119,12 @@ FlowSpace applies your selected notification preferences to the supported notifi
 
 ## Related Documentation
 
-- [What's New in FlowSpace 2.0](#whats-new-in-flowspace-20)
-- [Improvements](#improvements)
-- [Bug Fixes](#bug-fixes)
-- [Known Issues and Workarounds](#known-issues-and-workarounds)
-- [Upgrade Notes](#upgrade-notes)
+- [What's New](./What's-New.md)
+- [Improvements](./Improvements.md)
+- [Bug Fixes](./Bug-Fixes.md)
+- [Known Issues and Workarounds](./Known-Issues.md)
+- [Upgrade Notes](./Upgrade-Notes.md)
+- [Previous Release](./Previous-Releases.md)
 
 ---
 

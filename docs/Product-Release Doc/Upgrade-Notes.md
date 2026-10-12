@@ -1,3 +1,8 @@
+---
+sidebar_position: 6
+title: Upgrade Notes
+---
+
 # Upgrade Notes for FlowSpace 2.0
 
 **Release Version:** 2.0  
@@ -158,11 +163,12 @@ Check the Known Issues and Workarounds page first. If the issue persists, contac
 
 ## 8. Related Documentation
 
-- [What's New in FlowSpace 2.0](#whats-new-in-flowspace-20)
-- [New Features](#new-features)
-- [Improvements](#improvements)
-- [Bug Fixes](#bug-fixes)
-- [Known Issues and Workarounds](#known-issues-and-workarounds)
+- [What's New](./What's-New.md)
+- [New Features](./New-Features.md)
+- [Improvements](./Improvements.md)
+- [Bug Fixes](./Bug-Fixes.md)
+- [Known Issues and Workarounds](./Known-Issues.md)
+- [Previous Release](./Previous-Releases.md)
 
 ---
 

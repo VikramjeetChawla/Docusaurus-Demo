@@ -1,36 +1,7 @@
-Product Release Documentation
-
-Parent page — project overview and release index
-
-1. What's New in Version 2.0
-
-Release highlights and summary
-
-2. New Features
-
-New functionality and how to use it
-
-3. Improvements
-
-Enhancements to existing features
-
-4. Bug Fixes
-
-Resolved issues and their user impact
-
-5. Known Issues and Workarounds
-
-Current limitations and temporary solutions
-
-6. Upgrade Notes
-
-Compatibility, prerequisites, and upgrade guidance
-
-7. Previous Releases
-
-Release history and links to earlier versions
-
-
+---
+sidebar_position: 1
+title: What's New
+---
 
 # What's New in FlowSpace 2.0
 
@@ -79,11 +50,14 @@ Before moving to FlowSpace 2.0, review the Upgrade Notes page for compatibility 
 
 ## Explore the Release Documentation
 
-- [New Features](#new-features)
-- [Improvements](#improvements)
-- [Bug Fixes](#bug-fixes)
-- [Known Issues and Workarounds](#known-issues-and-workarounds)
-- [Upgrade Notes](#upgrade-notes)
+- [New Features](./New-Features.md)
+- [Improvements](./Improvements.md)
+- [Bug Fixes](./Bug-Fixes.md)
+- [Known Issues and Workarounds](./Known-Issues.md)
+- [Upgrade Notes](./Upgrade-Notes.md)
+- [Previous Release](./Previous-Releases.md)
+
+
 
 ---
 

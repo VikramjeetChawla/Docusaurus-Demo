@@ -1,3 +1,8 @@
+---
+sidebar_position: 3
+title: Improvements
+---
+
 # Improvements in FlowSpace 2.0
 
 **Release Version:** 2.0  
@@ -102,12 +107,12 @@ Review your notification settings if you want to change which project activities
 
 ## Related Documentation
 
-- [What's New in FlowSpace 2.0](#whats-new-in-flowspace-20)
-- [New Features](#new-features)
-- [Bug Fixes](#bug-fixes)
-- [Known Issues and Workarounds](#known-issues-and-workarounds)
-- [Upgrade Notes](#upgrade-notes)
-
+- [What's New](./What's-New.md)
+- [New Features](./New-Features.md)
+- [Bug Fixes](./Bug-Fixes.md)
+- [Known Issues and Workarounds](./Known-Issues.md)
+- [Upgrade Notes](./Upgrade-Notes.md)
+- [Previous Release](./Previous-Releases.md)
 ---
 
 **Portfolio Note:** FlowSpace is a fictional project management platform created for a technical writing portfolio. The improvements described above are illustrative examples, not verified changes to a real product.

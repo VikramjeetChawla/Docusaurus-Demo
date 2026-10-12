@@ -1,3 +1,8 @@
+---
+sidebar_position: 5
+title: Known issues
+---
+
 # Known Issues and Workarounds in FlowSpace 2.0
 
 **Release Version:** 2.0  
@@ -113,11 +118,12 @@ Do not include passwords, authentication tokens, or other sensitive information 
 
 ## Related Documentation
 
-- [What's New in FlowSpace 2.0](#whats-new-in-flowspace-20)
-- [New Features](#new-features)
-- [Improvements](#improvements)
-- [Bug Fixes](#bug-fixes)
-- [Upgrade Notes](#upgrade-notes)
+- [What's New](./What's-New.md)
+- [New Features](./New-Features.md)
+- [Improvements](./Improvements.md)
+- [Bug Fixes](./Bug-Fixes.md)
+- [Upgrade Notes](./Upgrade-Notes.md)
+- [Previous Release](./Previous-Releases.md)
 
 ---
 

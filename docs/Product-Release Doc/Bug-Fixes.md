@@ -1,3 +1,8 @@
+---
+sidebar_position: 4
+title: Bug Fixes
+---
+
 # Bug Fixes in FlowSpace 2.0
 
 **Release Version:** 2.0  
@@ -96,11 +101,12 @@ Providing these details helps the support team investigate the issue more effect
 
 ## Related Documentation
 
-- [What's New in FlowSpace 2.0](#whats-new-in-flowspace-20)
-- [New Features](#new-features)
-- [Improvements](#improvements)
-- [Known Issues and Workarounds](#known-issues-and-workarounds)
-- [Upgrade Notes](#upgrade-notes)
+- [What's New](./What's-New.md)
+- [New Features](./New-Features.md)
+- [Improvements](./Improvements.md)
+- [Known Issues and Workarounds](./Known-Issues.md)
+- [Upgrade Notes](./Upgrade-Notes.md)
+- [Previous Release](./Previous-Releases.md)
 
 ---
 
