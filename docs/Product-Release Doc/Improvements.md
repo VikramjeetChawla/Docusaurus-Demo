@@ -8,6 +8,25 @@ title: Improvements
 **Release Version:** 2.0  
 **Product:** FlowSpace Project Management Platform
 
+
+:::tip[Performance tip]
+
+Cache frequently accessed data to improve performance.
+
+:::
+
+:::warning
+
+Do not delete production data without a backup.
+
+:::
+
+:::danger[Breaking change]
+
+This API is no longer supported.
+
+:::
+
 ## Overview
 
 FlowSpace 2.0 includes several improvements to existing features to make project management tasks easier and improve the overall user experience.

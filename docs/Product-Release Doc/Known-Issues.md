@@ -8,6 +8,27 @@ title: Known issues
 **Release Version:** 2.0  
 **Product:** FlowSpace Project Management Platform
 
+import Tabs from '@theme/Tabs';
+import TabItem from '@theme/TabItem';
+
+<Tabs>
+  <TabItem value="npm" label="npm">
+
+    ```bash
+    npm install my-package
+    ```
+
+  </TabItem>
+  <TabItem value="yarn" label="Yarn">
+
+    ```bash
+    yarn add my-package
+    ```
+
+  </TabItem>
+</Tabs>
+
+
 ## Overview
 
 This page documents known issues and current limitations in FlowSpace 2.0 that may affect the user experience. It also provides workarounds to help users continue working while a permanent resolution is being investigated or developed.

@@ -64,6 +64,27 @@ Advanced Task Filters allow users to narrow down task lists using multiple crite
 5. Select the required values for each criterion.
 6. Apply the filters to update the task list.
 
+<details>
+  <summary>**How to Use Advanced Task Filters**</summary>
+
+  This content is hidden by default.
+
+1. Open the project you want to review.
+2. Navigate to the **Tasks** section.
+3. Select **Filters**.
+4. Choose one or more filter criteria.
+5. Select the required values for each criterion.
+6. Apply the filters to update the task list.
+</details>
+
+<details>
+  <summary><strong>More details</strong></summary>
+
+  ### Additional information
+
+  Here is some extra information with Markdown formatting.
+</details>
+
 ### Expected Result
 
 The task list displays tasks that match the selected filter criteria.
